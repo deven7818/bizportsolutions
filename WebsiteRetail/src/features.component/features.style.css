@@ -1,0 +1,60 @@
+.rowsetFeature{
+  background-color: none;
+  padding: 50px;
+  height: auto;
+  width: auto;
+ 
+}
+
+
+  .rowsetFeature h1{
+    font-size: 50px;
+    font-weight: bold;
+  }
+
+/*paragraph */
+
+  .rowsettinFtr{
+    margin-top: 50px;
+    
+   
+  }
+
+/*paragraph colour*/
+  .rowsettinFtr p{
+    color: #6c757d!important;
+  }
+
+  .rowsettinFtr h2{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    }
+
+  .imgset {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+  }
+  .fa-shopping-cart{
+    margin-top: 20px ;
+  }
+  
+  
+  .fa-file-text-o{
+    margin-top: 20px;
+  }
+  
+  
+  .fa-calculator{
+    margin-top: 20px;
+  }
+  
+ 
+  .fa-shopping-bag{
+    margin-top: 20px ;
+  }
+  
+  .fa-barcode{
+    margin-top: 20px;
+  }

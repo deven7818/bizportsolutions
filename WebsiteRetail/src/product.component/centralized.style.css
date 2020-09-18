@@ -1,0 +1,45 @@
+
+.centimg{
+    background-image: url('../images/HomeImages/cent3.png');
+    background-size: 100% 100%;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 420px;
+    height: 300px;
+   
+}
+
+.centP {
+    margin: 3rem;
+    width: 100%;
+    padding: 1rem;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.centP h1{
+    margin-bottom: 2rem;
+    font-family: 'Krona One', sans-serif;
+    font-weight: bold;
+}
+
+.centP h4{
+    margin-bottom: 2rem;
+    font-family: 'Krona One', sans-serif;
+    font-weight: bold;
+}
+
+.centP2 {
+  
+  width: 100%;
+  padding: 1rem;
+  text-align: justify;
+  font-family: 'Roboto Slab', serif;
+}
+
+.centP ul li{
+  font-size: 24px;
+  font-family: 'Roboto Slab', serif;
+}

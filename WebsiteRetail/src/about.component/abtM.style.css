@@ -1,0 +1,39 @@
+.abtbgclr{
+    background-color: lightblue;
+    border-radius: 5px;
+    height: auto;
+    margin: 1rem 0rem;
+    text-align: justify;
+    
+  font-family: 'Roboto Slab', serif;
+   
+}
+.abtbgclr p{
+  font-size: 20px;
+}
+
+.icon{display: inline-block;
+    color: silver; 
+    text-align:center;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem;
+    
+  }
+  .aiconH:hover {
+    color: red;
+  }
+  
+  .iconcenter{
+    text-align: center; 
+    color: gold; 
+    text-align:center;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem;
+  }
+.hzoom{
+  transition: transform .2s; /* Animation */
+}
+
+.hzoom:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}

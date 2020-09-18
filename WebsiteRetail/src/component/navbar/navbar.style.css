@@ -1,0 +1,28 @@
+
+.logoi{
+    background-image: url('../../images/BizLogo.png');
+    margin-top: 1rem;
+    background-size: 100% 100%;
+    width: 16%;
+    height: 110px;
+  }
+
+  .blogo{
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+  }
+  .dropdown:hover .dropdown-menu {
+    display: block;
+}
+.hover_drop_down.input-group-btn ul.dropdown-menu{margin-top: 0px;}/*To avoid unwanted close*/
+.hover_drop_down.btn-group ul.dropdown-menu{margin-top:2px;}/*To avoid unwanted close*/
+.hover_drop_down:hover ul.dropdown-menu{
+   display: block;
+}
+
+
+.product:hover {
+  background-color: skyblue;
+  color: white;
+}
+

@@ -1,0 +1,78 @@
+.WrowsetWO{
+    background-color: none;
+    padding: 3rem;
+    height: auto;
+    width: auto;
+    font-family: 'Roboto Slab', serif;
+   
+  }
+  
+    /*---------------------ourservice-------------*/
+    
+    .WrowsetWO h1{
+      font-size: 50px;
+      font-weight: bold;
+    }
+  
+  /*paragraph */
+  
+    .WrowsettingWO{
+      margin-top: 100px 0px !important;
+     
+    }
+  
+  /*paragraph colour*/
+    .WrowsettingWO p{
+      font-size: 22px;
+      color: grey!important;
+    }
+  
+    .WrowsettingWO h2{
+      margin-top: 20px;
+      font-weight: bold;
+      font-size: 25px;
+      }
+  
+    .WimgsetWO {
+      border-radius: 50%;
+      height: 80px;
+      width: 80px;
+    }
+
+  
+/*---------------Icons--------------*/
+    .fa-check-square-o{
+      margin: 13px;
+      padding: 0.5rem;
+    }
+
+    .fa-briefcase{
+      margin: 13px;
+      padding: 0.5rem;
+    }
+    
+    .fa-lightbulb-o{
+      margin: 13px;
+      padding: 0.5rem;
+    }
+
+    .fa-refresh{
+      margin: 13px;
+      padding: 0.5rem;
+    }
+    
+    .fa-phone-square{
+      
+      margin: 13px;
+      padding: 0.5rem;   
+    }
+    
+    
+    .fa-desktop{
+      margin: 11px;
+      padding: 0.5rem;
+    }
+    
+   
+    
+  

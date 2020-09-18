@@ -1,0 +1,24 @@
+.contbgclr{
+    margin-top: 1rem;
+    padding: 3rem;
+   background-color: lightblue;
+   height: auto;
+   font-family: 'Roboto Slab', serif;
+}
+
+.contbgclr h2{
+font-size: 40px;
+}
+
+.btncenter{
+  margin-left: 100px;
+  width: 150px;
+  text-align: center;
+  margin:0 auto;
+}
+
+.contbgclr p{
+  margin-bottom: 2rem;
+  font-size: 22px;
+  font-family: 'Roboto Slab', serif;
+}

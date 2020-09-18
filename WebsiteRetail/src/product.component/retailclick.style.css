@@ -1,0 +1,107 @@
+
+.retailimg{
+    background-image: url('../images/IndustryExpertise/feature.jpg');
+    background-size: 100% 100%;
+    margin-top: 3rem;
+    margin-bottom: auto;
+    margin-left: 4rem;
+    margin-right: auto;
+    width: 570px;
+    height: 330px;
+   
+}
+
+.retailP {
+    margin :2rem;
+    width: 55%;
+    padding: 1rem;
+    text-align: justify;
+    font-size: 22px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.retailP h4{
+    margin-bottom: 2rem;
+    font-family: 'Krona One', sans-serif;
+    font-weight: bold;
+}
+.retailP h9{
+   
+    font-family: 'Krona One', sans-serif;
+    font-weight: bold;
+}
+
+
+
+.retailP2 {
+  margin: 3rem;
+  width: 100%;
+  padding: 1rem;
+  text-align: justify;
+  font-size: 22px;
+  font-family: 'Roboto Slab', serif;
+}
+
+
+.retailP2 h4{
+  margin-bottom: 2rem;
+  font-family: 'Krona One', sans-serif;
+  font-weight: bold;
+}
+/*--Feature page*/
+
+
+.Raa{
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    font-size: 20px;
+  }
+  .Rcard{
+    box-shadow: 12px 12px 12px 4px rgba(176, 233, 138, 0.5);
+    width:  auto ;
+    height: auto ;
+    margin: auto;
+    margin-bottom: 2rem;
+    background-color: rgba(199, 221, 235, 0.5);
+    text-align: center;
+    border-radius: 40px;  
+    padding-bottom: 13px; 
+    font-family: 'Roboto Slab', serif;
+  }
+  
+  
+  .Rcard:hover{
+    -webkit-box-shadow: -1px 9px 40px 12px rgba(198, 207, 212, 0.5);
+    -moz-box-shadow:  -1px 9px 40px 12px rgba(210, 218, 223, 0.5);
+    box-shadow: -1px 9px 40px 12px rgba(193, 201, 206, 0.5);
+  }
+  
+  .Rfimgset {
+   border-radius: 50%;
+   margin-left: 30px;
+   height: 100px;
+   width: 100px;
+  }
+
+  .fa-file-text-o{
+    margin-left: 17px;
+    padding: 15px;
+   
+  }
+  
+  .fa-shopping-bag{
+    margin-left: 17px;
+    padding: 12px;
+  }
+ 
+  
+  .fa-barcode{
+    margin-left: 15px;
+    padding: 14px;
+  }
+      
+  .fa-calculator{
+    margin-left: 15px;
+    padding: 14px;
+  }
+  

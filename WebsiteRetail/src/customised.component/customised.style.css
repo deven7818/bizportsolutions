@@ -1,0 +1,39 @@
+
+  .Ccust{
+    margin-top: 40px;
+    padding: 15px;
+    background-color:lightblue ; 
+    font-family: 'Roboto Slab', serif;
+  }
+.bgCustImg{
+    background-image: url('../images/HomeImages/cust1.jpg');
+    background-size: 100% 100%;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 380px;
+  }
+  
+  .custInfo{
+    
+    font-size: 18px;
+    padding: 20px 50px;
+    margin:auto;
+    width: 100%;
+    height: auto;
+  }
+  
+  
+  .custInfo h4{
+    
+   
+    padding: 20px 50px;
+    margin-bottom: 2rem;
+    width: 100%;
+    height: auto;
+  }
+  
+  
+  
